@@ -1,5 +1,3 @@
-# sp500-prediction
-
 # S&P 500 Movement Prediction
 
 Predict S&P 500 index movements using machine learning.
