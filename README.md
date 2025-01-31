@@ -10,6 +10,6 @@ Predict S&P 500 index movements using machine learning.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/sp500-prediction.git
-cd sp500-prediction
+git clone https://github.com/13ik/SP500-Prediction.git
+cd SP500-Prediction
 pip install -r requirements.txt
