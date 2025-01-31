@@ -3,10 +3,10 @@
 Predict S&P 500 index movements using machine learning.
 
 ## Features
-- EDA with interactive visualizations
-- Hyperparameter tuning with GridSearchCV
-- Feature importance analysis
-- Model persistence with Joblib
+- Data preprocessing pipeline
+- Multiple ML models (Random Forest, Gradient Boosting, Logistic Regression)
+- Model evaluation metrics
+- Prediction interface
 
 ## Installation
 ```bash
