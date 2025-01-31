@@ -186,7 +186,6 @@ if __name__ == "__main__":
             if len(input_data) != 10:
                 print("Error: Please enter exactly 10 values")
                 continue
-            # Проверка диапазонов значений (если требуется)
             prediction = trainer.predict(model, scaler, input_data)
             if prediction is not None:
                 movement = {-1: "Decline", 0: "Stable", 1: "Growth"}
